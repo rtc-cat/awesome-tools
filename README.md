@@ -1,5 +1,6 @@
 # Awesome-Tools
 
+## 工具和库
 
 - [askgit](https://github.com/augmentable-dev/askgit) 使用SQL查询git仓库的各种信息
 
@@ -18,3 +19,9 @@ gitmoji -i
 - [wire](https://github.com/google/wire) 依赖注入生成器
 
 - [fgprof](https://github.com/felixge/fgprof) 分析go的off-cpu时间
+
+## Plantuml 使用
+
+- `left to right direction`  用来设置整体布局
+- `skinparam linetype ortho` 用来配置线的类型
+- `note left of ... end note` 用来注释
