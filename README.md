@@ -1,6 +1,5 @@
 # Awesome-Tools
 
-## 命令行工具
 
 - [askgit](https://github.com/augmentable-dev/askgit) 使用SQL查询git仓库的各种信息
 
@@ -16,7 +15,6 @@ gitmoji -i
 - [subfinder](https://github.com/projectdiscovery/subfinder) 发现子域名
 
 
-## 代码库
-
-
 - [wire](https://github.com/google/wire) 依赖注入生成器
+
+- [fgprof](https://github.com/felixge/fgprof) 分析go的off-cpu时间
