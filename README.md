@@ -13,6 +13,8 @@ gitmoji -i
 
 - [gron](https://github.com/tomnomnom/gron) 让json可以grep查询
 
+- [subfinder](https://github.com/projectdiscovery/subfinder) 发现子域名
+
 
 ## 代码库
 
