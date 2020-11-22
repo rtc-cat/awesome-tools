@@ -20,6 +20,8 @@ gitmoji -i
 
 - [fgprof](https://github.com/felixge/fgprof) 分析go的off-cpu时间
 
+- [codis](https://github.com/CodisLabs/codis) go编写的redis的proxy
+
 ## Plantuml 使用
 
 - `left to right direction`  用来设置整体布局
