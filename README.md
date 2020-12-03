@@ -22,6 +22,8 @@ gitmoji -i
 
 - [codis](https://github.com/CodisLabs/codis) go编写的redis的proxy
 
+- [poetry](https://github.com/python-poetry/poetry) python的包管理以及环境管理工具
+
 ## Plantuml 使用
 
 - `left to right direction`  用来设置整体布局
