@@ -11,10 +11,11 @@
 gitmoji -i
 ```
 
+### Golang
+
 - [gron](https://github.com/tomnomnom/gron) 让json可以grep查询
 
 - [subfinder](https://github.com/projectdiscovery/subfinder) 发现子域名
-
 
 - [wire](https://github.com/google/wire) 依赖注入生成器
 
@@ -22,7 +23,11 @@ gitmoji -i
 
 - [codis](https://github.com/CodisLabs/codis) go编写的redis的proxy
 
+### Python
+
 - [poetry](https://github.com/python-poetry/poetry) python的包管理以及环境管理工具
+
+- [dataclasses-json](https://github.com/lidatong/dataclasses-json) 给dataclasses的类增加json的序列化
 
 ## Plantuml 使用
 
