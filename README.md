@@ -4,6 +4,8 @@
 
 - [游戏UI](https://www.gameuidatabase.com/index.php) 可以看到各种游戏的UI
 
+- [计算机缺失的一节课](https://missing-semester-cn.github.io/) 
+
 ## 工具和库
 
 - [askgit](https://github.com/augmentable-dev/askgit) 使用 SQL 查询 git 仓库的各种信息
