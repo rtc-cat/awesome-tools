@@ -1,5 +1,9 @@
 # Awesome-Tools
 
+## 资源
+
+- [游戏UI](https://www.gameuidatabase.com/index.php) 可以看到各种游戏的UI
+
 ## 工具和库
 
 - [askgit](https://github.com/augmentable-dev/askgit) 使用 SQL 查询 git 仓库的各种信息
