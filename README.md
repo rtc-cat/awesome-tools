@@ -2,9 +2,9 @@
 
 ## 资源
 
-- [游戏UI](https://www.gameuidatabase.com/index.php) 可以看到各种游戏的UI
+- [游戏 UI](https://www.gameuidatabase.com/index.php) 可以看到各种游戏的 UI
 
-- [计算机缺失的一节课](https://missing-semester-cn.github.io/) 
+- [计算机缺失的一节课](https://missing-semester-cn.github.io/)
 
 ## 工具和库
 
@@ -18,6 +18,8 @@ gitmoji -i
 ```
 
 - [asciinema](https://asciinema.org/) 终端录制工具
+
+- [trash](https://github.com/ali-rantakari/trash) mac 上代替 rm 命令, 删除的文件进入垃圾桶
 
 ### Golang
 
