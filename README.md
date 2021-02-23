@@ -39,6 +39,10 @@ gitmoji -i
 
 - [dataclasses-json](https://github.com/lidatong/dataclasses-json) 给 dataclasses 的类增加 json 的序列化
 
+## cheatsheet
+
+- [shell](https://devhints.io/bash) shell 常用语法
+
 ## Plantuml 使用
 
 - `left to right direction` 用来设置整体布局
