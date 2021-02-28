@@ -21,6 +21,8 @@ gitmoji -i
 
 - [trash](https://github.com/ali-rantakari/trash) mac 上代替 rm 命令, 删除的文件进入垃圾桶
 
+- [duf](https://github.com/muesli/duf) 更加友好的磁盘使用率展示
+
 ### Golang
 
 - [gron](https://github.com/tomnomnom/gron) 让 json 可以 grep 查询
