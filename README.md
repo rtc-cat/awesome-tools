@@ -17,6 +17,12 @@
 gitmoji -i
 ```
 
+- [cheat](https://github.com/chubin/cheat.sh) 常用命令备忘录集合
+
+```
+curl cheat.sh
+```
+
 - [asciinema](https://asciinema.org/) 终端录制工具
 
 - [trash](https://github.com/ali-rantakari/trash) mac 上代替 rm 命令, 删除的文件进入垃圾桶
