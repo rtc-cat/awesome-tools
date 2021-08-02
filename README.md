@@ -8,6 +8,8 @@
 
 ## 工具和库
 
+- [delta](https://github.com/dandavison/delta) 优化后的git diff展示
+
 - [askgit](https://github.com/augmentable-dev/askgit) 使用 SQL 查询 git 仓库的各种信息
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji) 使用 emoji😁 记录 commit 信息
