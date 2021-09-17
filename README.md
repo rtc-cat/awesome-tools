@@ -14,6 +14,8 @@
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji) 使用 emoji😁 记录 commit 信息
 
+- [gobang](https://github.com/TaKO8Ki/gobang) TUI 数据库客户端
+
 ```sh
 # 这个命令可以给所处的git仓库增加一个hook启动gitmoji这个功能, 以后只需要直接git commit就可以
 gitmoji -i
