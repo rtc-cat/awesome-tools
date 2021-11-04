@@ -33,6 +33,9 @@ curl cheat.sh
 
 - [duf](https://github.com/muesli/duf) 更加友好的磁盘使用率展示
 
+- [gotty](https://github.com/yudai/gotty) 分享终端
+
+
 ### Golang
 
 - [gron](https://github.com/tomnomnom/gron) 让 json 可以 grep 查询
