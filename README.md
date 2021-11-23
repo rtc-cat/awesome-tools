@@ -35,6 +35,8 @@ curl cheat.sh
 
 - [gotty](https://github.com/yudai/gotty) 分享终端
 
+- [pet](https://github.com/knqyf263/pet) 命令管理
+
 
 ### Golang
 
