@@ -37,6 +37,7 @@ curl cheat.sh
 
 - [pet](https://github.com/knqyf263/pet) 命令管理
 
+- [repobeats](https://repobeats.axiom.co/) 展示github统计信息
 
 ### Golang
 
