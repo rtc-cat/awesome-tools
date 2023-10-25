@@ -8,13 +8,21 @@
 
 ## 工具和库
 
-- [delta](https://github.com/dandavison/delta) 优化后的git diff展示
+- [delta](https://github.com/dandavison/delta) 优化后的 git diff 展示
 
 - [askgit](https://github.com/augmentable-dev/askgit) 使用 SQL 查询 git 仓库的各种信息
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji) 使用 emoji😁 记录 commit 信息
 
 - [gobang](https://github.com/TaKO8Ki/gobang) TUI 数据库客户端
+
+- [ImHex](https://github.com/WerWolv/ImHex) 二进制编辑器
+
+- [podman](https://podman.io/) 代替 docker
+
+- [kind](https://kind.sigs.k8s.io/) k8s in docker
+
+- [pulumi](https://www.pulumi.com/) iac 工具
 
 ```sh
 # 这个命令可以给所处的git仓库增加一个hook启动gitmoji这个功能, 以后只需要直接git commit就可以
@@ -37,7 +45,7 @@ curl cheat.sh
 
 - [pet](https://github.com/knqyf263/pet) 命令管理
 
-- [repobeats](https://repobeats.axiom.co/) 展示github统计信息
+- [repobeats](https://repobeats.axiom.co/) 展示 github 统计信息
 
 ### Golang
 
